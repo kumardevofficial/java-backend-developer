@@ -64,6 +64,10 @@ class BankAccount{
 	
 }
 
+public Employee{
+	
+}
+
 
 
 
@@ -79,16 +83,16 @@ public class Main{
  //st.getAge();
  //st.getRollNumber();
  
- BankAccount ac = new BankAccount();
- ac.setAccountNumber(64859375);
- ac.setAccountHolderName("Vikash Pathak");
- ac.deposit(5500.60);
- 
- System.out.println(ac.getAccountHolderName());
- System.out.println(ac.getAccountNumber());
- System.out.println(ac.getBalance());
- ac.withdraw(600);
- System.out.println(ac.getBalance());
+ //Account ac = new BankAccount();
+ //etAccountNumber(64859375);
+ //etAccountHolderName("Vikash Pathak");
+ //eposit(5500.60);
+ //
+ //em.out.println(ac.getAccountHolderName());
+ //em.out.println(ac.getAccountNumber());
+ //em.out.println(ac.getBalance());
+ //ithdraw(600);
+ //em.out.println(ac.getBalance());
  
  }
 }
