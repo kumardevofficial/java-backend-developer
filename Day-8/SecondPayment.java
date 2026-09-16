@@ -14,6 +14,7 @@ class SecondPayment
   SecondPayment sp = new SecondPayment();
   sp.doSomething();
   sp.doNothing();
+  saySomething();
  }
 	
 	public void doSomething()
@@ -24,5 +25,9 @@ class SecondPayment
 	public void doNothing()
 	{
 		System.out.println("This is do nothing method...");
+	}
+	public static void saySomething()
+	{
+		System.out.println("just say something ");
 	}
 }
