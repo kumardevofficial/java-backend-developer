@@ -1,9 +1,6 @@
-class Student
+public class Student 
 {
-	public static void main(String args[])
-	{
-	 Books obj = new Books();
-	 System.out.println(obj.showMeTheBook);
-	}
-
+   public String name = "akash";
+   public int age = 7;
+   public int rollNumber = 22;
 }
