@@ -1,0 +1,420 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AutoBoxinUnboxing",
+            "request": "launch",
+            "mainClass": "Rough_Practice.AutoBoxinUnboxing",
+            "projectName": "java backend developer_f829dbd9"
+        },
+        {
+            "type": "java",
+            "name": "StringQuestions",
+            "request": "launch",
+            "mainClass": "Rough_Practice.StringQuestions",
+            "projectName": "java backend developer_f829dbd9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Customer",
+            "request": "launch",
+            "mainClass": "atm.Customer",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "com.amazon.sample.HelloWorld",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "GameTester",
+            "request": "launch",
+            "mainClass": "gameCharacter.GameTester",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "Hospital",
+            "request": "launch",
+            "mainClass": "q01.Hospital",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "Library",
+            "request": "launch",
+            "mainClass": "q02.Library",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "Restaurant",
+            "request": "launch",
+            "mainClass": "q03.Restaurant",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "Airport",
+            "request": "launch",
+            "mainClass": "q04.Airport",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "TestStudent",
+            "request": "launch",
+            "mainClass": "q05.TestStudent",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "Team",
+            "request": "launch",
+            "mainClass": "q06.Team",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "Movie",
+            "request": "launch",
+            "mainClass": "q07.Movie",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "youtubeAccount.User",
+            "projectName": "Day_12"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "Driver",
+            "projectName": "Day_13"
+        },
+        {
+            "type": "java",
+            "name": "Driver(1)",
+            "request": "launch",
+            "mainClass": "Day_14/com.kodewala.constructor.Driver",
+            "projectName": "Day_14"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Day_14/com.kodewala.product.Main",
+            "projectName": "Day_14"
+        },
+        {
+            "type": "java",
+            "name": "Driver(2)",
+            "request": "launch",
+            "mainClass": "Day_15/com.java.constructor.Driver",
+            "projectName": "Day_15"
+        },
+        {
+            "type": "java",
+            "name": "Driver(3)",
+            "request": "launch",
+            "mainClass": "Day_15/com.java.notification.Driver",
+            "projectName": "Day_15"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Day_15/com.java.onlinesopping.Main",
+            "projectName": "Day_15"
+        },
+        {
+            "type": "java",
+            "name": "Driver(4)",
+            "request": "launch",
+            "mainClass": "Day_16/com.java.constructor.Driver",
+            "projectName": "Day_16"
+        },
+        {
+            "type": "java",
+            "name": "Driver(5)",
+            "request": "launch",
+            "mainClass": "Day_17/com.amazon.product.Driver",
+            "projectName": "Day_17"
+        },
+        {
+            "type": "java",
+            "name": "Driver(6)",
+            "request": "launch",
+            "mainClass": "Day_17/com.flipkart.user.Driver",
+            "projectName": "Day_17"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "Day_17/com.java.savingaccount.Main",
+            "projectName": "Day_17"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "Day_17/com.java.smartphone.Main",
+            "projectName": "Day_17"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "Day_17/com.java.university.Main",
+            "projectName": "Day_17"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "Day_17/com.java.vehicle.Main",
+            "projectName": "Day_17"
+        },
+        {
+            "type": "java",
+            "name": "Driver(7)",
+            "request": "launch",
+            "mainClass": "Day_17/com.swiggy.product.Driver",
+            "projectName": "Day_17"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "Day_18/com.java.bankloaneligibility.Main",
+            "projectName": "Day_18"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "Day_18/com.java.ecommercecheckout.Main",
+            "projectName": "Day_18"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "Day_18/com.java.makemytrip.Main",
+            "projectName": "Day_18"
+        },
+        {
+            "type": "java",
+            "name": "Driver(8)",
+            "request": "launch",
+            "mainClass": "Day_19/com.java.array.Driver",
+            "projectName": "Day_19"
+        },
+        {
+            "type": "java",
+            "name": "Driver(9)",
+            "request": "launch",
+            "mainClass": "Day_19/com.java.employee.Driver",
+            "projectName": "Day_19"
+        },
+        {
+            "type": "java",
+            "name": "Driver(10)",
+            "request": "launch",
+            "mainClass": "Day_19/com.java.forloop.Driver",
+            "projectName": "Day_19"
+        },
+        {
+            "type": "java",
+            "name": "Driver(11)",
+            "request": "launch",
+            "mainClass": "Day_19/com.java.sbibank.Driver",
+            "projectName": "Day_19"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "Day_20/com.java.dowhile.DoWhile",
+            "projectName": "Day_20"
+        },
+        {
+            "type": "java",
+            "name": "GuessTheNumber",
+            "request": "launch",
+            "mainClass": "Day_20/com.java.guessthenumber.GuessTheNumber",
+            "projectName": "Day_20"
+        },
+        {
+            "type": "java",
+            "name": "ScannerClass",
+            "request": "launch",
+            "mainClass": "Day_20/com.java.learningscanner.ScannerClass",
+            "projectName": "Day_20"
+        },
+        {
+            "type": "java",
+            "name": "Driver(12)",
+            "request": "launch",
+            "mainClass": "Day_20/com.java.validateinput.Driver",
+            "projectName": "Day_20"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "Day_20/com.java.whileloop.WhileLoop",
+            "projectName": "Day_20"
+        },
+        {
+            "type": "java",
+            "name": "Driver(13)",
+            "request": "launch",
+            "mainClass": "Day_22/com.java.discountcalcualtor.Driver",
+            "projectName": "Day_22"
+        },
+        {
+            "type": "java",
+            "name": "Driver(14)",
+            "request": "launch",
+            "mainClass": "Day_22/devashish.Driver",
+            "projectName": "Day_22"
+        },
+        {
+            "type": "java",
+            "name": "UnerStanding",
+            "request": "launch",
+            "mainClass": "Day_22/devashish.UnerStanding",
+            "projectName": "Day_22"
+        },
+        {
+            "type": "java",
+            "name": "Drive",
+            "request": "launch",
+            "mainClass": "Day_23/com.java.comapreeuqlsandmethods.Drive",
+            "projectName": "Day_23"
+        },
+        {
+            "type": "java",
+            "name": "Driver2",
+            "request": "launch",
+            "mainClass": "Day_23/com.java.comapreeuqlsandmethods.Driver2",
+            "projectName": "Day_23"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderr",
+            "request": "launch",
+            "mainClass": "Day_23/com.java.comapreeuqlsandmethods.StringBuilderr",
+            "projectName": "Day_23"
+        },
+        {
+            "type": "java",
+            "name": "Driver(15)",
+            "request": "launch",
+            "mainClass": "Day_23/com.java.string.Driver",
+            "projectName": "Day_23"
+        },
+        {
+            "type": "java",
+            "name": "Driver1",
+            "request": "launch",
+            "mainClass": "Day_23/com.java.string.Driver1",
+            "projectName": "Day_23"
+        },
+        {
+            "type": "java",
+            "name": "Driver(16)",
+            "request": "launch",
+            "mainClass": "Day_24/com.java.string.Driver",
+            "projectName": "Day_24"
+        },
+        {
+            "type": "java",
+            "name": "Driver2(1)",
+            "request": "launch",
+            "mainClass": "Day_24/com.java.string.Driver2",
+            "projectName": "Day_24"
+        },
+        {
+            "type": "java",
+            "name": "Driver(17)",
+            "request": "launch",
+            "mainClass": "Day_25/com.java.string.Driver",
+            "projectName": "Day_25"
+        },
+        {
+            "type": "java",
+            "name": "Driver1(1)",
+            "request": "launch",
+            "mainClass": "Day_25/com.java.string.Driver1",
+            "projectName": "Day_25"
+        },
+        {
+            "type": "java",
+            "name": "Driver1(2)",
+            "request": "launch",
+            "mainClass": "Day_26/com.java.classtest.Driver1",
+            "projectName": "Day_26"
+        },
+        {
+            "type": "java",
+            "name": "Driver2(2)",
+            "request": "launch",
+            "mainClass": "Day_26/com.java.classtest.Driver2",
+            "projectName": "Day_26"
+        },
+        {
+            "type": "java",
+            "name": "Driver(18)",
+            "request": "launch",
+            "mainClass": "Day_26/com.java.finalkeyword.Driver",
+            "projectName": "Day_26"
+        },
+        {
+            "type": "java",
+            "name": "Driver(19)",
+            "request": "launch",
+            "mainClass": "Day_26/com.java.querrygenerator.Driver",
+            "projectName": "Day_26"
+        },
+        {
+            "type": "java",
+            "name": "Driver(20)",
+            "request": "launch",
+            "mainClass": "Day_26/com.java.stringbuilder.Driver",
+            "projectName": "Day_26"
+        },
+        {
+            "type": "java",
+            "name": "HomePage",
+            "request": "launch",
+            "mainClass": "Java_Bank/com.java.bank.HomePage",
+            "projectName": "Java_Bank"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "Student_Course_Registration_System/com.student.courseregistration.Main",
+            "projectName": "Student_Course_Registration_System"
+        }
+    ]
+}
